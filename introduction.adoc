@@ -1,0 +1,5 @@
+Chatper Name Introduction
+=================
+Author's Name <authors@email.address>
+
+This is the introduction to the chapter.  It should be written by the Chapter Leader and should contain an overview of the content that will be found in the chapter.  It should about 3-4 sentences long with a maximum of 6 sentences long.

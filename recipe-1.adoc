@@ -1,0 +1,20 @@
+Recipe Title
+=================
+Author's Name <authors@email.address>
+
+Problem: Name of the Problem
+-----------------
+State the problem that will be discussed in the recipe.
+
+Ideal Length: 1-2 paragraphs
+
+Solution: Describe the solution
+-----------------
+Discuss the solution.
+
+Ideal Length: 2-4 paragraphs
+
+Discussion: Write to discuss the solution
+-----------------
+
+Ideal Length: 4-6 paragraphs
